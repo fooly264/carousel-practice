@@ -1,3 +1,6 @@
-h1 {
-    color: brown;
+#carousel_bg_style {
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background: url('../img/005Charmeleon.png')
 }
